@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/DetailExpandCollapse/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/DetailExpandCollapse/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/DetailExpandCollapse/MainPage.xaml) (VB: [MainPage.xaml](./VB/DetailExpandCollapse/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/DetailExpandCollapse/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DetailExpandCollapse/MainPage.xaml.vb))
 <!-- default file list end -->
 # Expanding and collapsing master rows
